@@ -1,3 +1,13 @@
+V2.0
+
+Zmiana
+
+Dzień dobry!
+Test
+TEst
+TESt
+TEST
+
 Czym jest przypadek testowy? - to zbiór danych wejściowych, wstępnych warunków wykonania, 
 oczekiwanych rezultatów i końcowych kryteriów wykonania 
 
@@ -29,13 +39,14 @@ Zasady testowania wg ISTQB.
 5. Paradoks pestycydów
 6. Testowanie zależy od kontekstu
 7. Błędne przekonanie o braku błędów
-
+Zmiany zmiany, duże zmiany
+Dalsze zmiany. 
 Poziomy testów
 -Modułowe (unit)
 -Integracyjne (integration)
 -Systemowe (system)
 -Akceptacyjne (acceptance)
-
+To już wsszsytko wiemy ###########################################################################################
 Typy testów:
 Testowanie Dynamiczne
 Testowanie Statyczne
@@ -59,4 +70,6 @@ Narzędzia.
 
 Podział ryzyk - projektowe i produktowe (jakościowe)
 Jak radzić sobie z ryzykiem - akceptować, łagodzić, unikać
+
+Dodatkowy tekst
 
